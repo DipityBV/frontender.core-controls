@@ -1,0 +1,19 @@
+{
+    "value": {
+        "label": { "en-GB": "Home", "fr-FR": "Acceuil" },
+        "page": "home",
+        "id": ""
+    },
+    "label": { "en-GB": "Page" },
+    "type": "compound",
+    "controls": {
+        "label": { "label": { "en-GB": "Label" }, "control": "core/text" },
+        "page": { "label": { "en-GB": "Page" }, "control": "core/text" },
+        "id": {
+            "label": { "en-GB": "Resource ID (optional)" },
+            "control": "core/text"
+        }
+    },
+    "control": "core/abstract",
+    "frontender": "869b524cf434bd0833b397d1c83c7c8f"
+}

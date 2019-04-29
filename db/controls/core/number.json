@@ -1,0 +1,7 @@
+{
+    "value": "",
+    "label": { "en-GB": "Number" },
+    "type": "number",
+    "control": "core/abstract",
+    "frontender": "6a478ccb1ca27f1e953bb674cf06030b"
+}

@@ -1,0 +1,7 @@
+{
+    "value": "",
+    "label": { "en-GB": "Textarea" },
+    "type": "textarea",
+    "control": "core/abstract",
+    "frontender": "7196f5a43c22eebe68d55bd2d3e67813"
+}

@@ -1,0 +1,21 @@
+{
+    "value": "follow, index",
+    "label": { "en-GB": "Indexing" },
+    "control": "core/abstract",
+    "options": [
+        { "value": "index, follow", "label": { "en-GB": "index, follow" } },
+        {
+            "value": "index, no-follow",
+            "label": { "en-GB": "index, no-follow" }
+        },
+        {
+            "value": "no-index, follow",
+            "label": { "en-GB": "no-index, follow" }
+        },
+        {
+            "value": "no-index, no-follow",
+            "label": { "en-GB": "no-index, no-follow" }
+        }
+    ],
+    "type": "list"
+}

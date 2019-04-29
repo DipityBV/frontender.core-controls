@@ -1,0 +1,7 @@
+{
+    "value": "",
+    "label": { "en-GB": "My field" },
+    "type": "text",
+    "control": "core/abstract",
+    "frontender": "76b5dddf72bee5762ba63d35cebc30d0"
+}

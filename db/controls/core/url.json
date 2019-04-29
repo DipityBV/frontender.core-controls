@@ -1,0 +1,14 @@
+{
+    "value": {
+        "label": { "en-GB": "", "fr-FR": "" },
+        "url": { "en-GB": "", "fr-FR": "" }
+    },
+    "label": { "en-GB": "Link" },
+    "type": "compound",
+    "controls": {
+        "label": { "label": { "en-GB": "Label" }, "control": "core/text" },
+        "url": { "label": { "en-GB": "URL" }, "control": "core/text" }
+    },
+    "control": "core/abstract",
+    "frontender": "08f30f163f7f31ecb460af95ad7a845d"
+}
