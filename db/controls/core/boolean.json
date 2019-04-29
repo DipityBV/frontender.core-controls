@@ -1,10 +1,10 @@
 {
-    "value": { "$numberInt": "0" },
+    "value": 0,
     "label": { "en-GB": "Boolean" },
     "type": "list",
     "options": [
-        { "value": { "$numberInt": "0" }, "label": { "en-GB": "No" } },
-        { "value": { "$numberInt": "1" }, "label": { "en-GB": "Yes" } }
+        { "value": 0, "label": { "en-GB": "No" } },
+        { "value": 1, "label": { "en-GB": "Yes" } }
     ],
     "control": "core/abstract",
     "frontender": "efd563eff89dff0c3ab087b033f1d229"
