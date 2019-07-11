@@ -1,0 +1,10 @@
+{
+    "value": {
+      "en-GB": "",
+      "fr-FR": ""
+    },
+    "label": { "en-GB": "Locale" },
+    "type": "locale",
+    "control": "core/abstract",
+    "frontender": "08f30f163f7f31ecb460af95ad7a845d"
+}
