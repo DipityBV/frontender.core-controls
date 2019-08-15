@@ -1,6 +1,6 @@
 {
     "value": {
-        "label": { "en-GB": "Home", "fr-FR": "Acceuil" },
+        "label": { "en-GB": "Label" },
         "page": "home",
         "id": ""
     },
