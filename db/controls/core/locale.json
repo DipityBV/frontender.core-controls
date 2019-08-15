@@ -1,7 +1,6 @@
 {
     "value": {
-      "en-GB": "",
-      "fr-FR": ""
+      "en-GB": ""
     },
     "label": { "en-GB": "Locale" },
     "type": "locale",
