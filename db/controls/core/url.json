@@ -1,7 +1,7 @@
 {
     "value": {
-        "label": { "en-GB": "", "fr-FR": "" },
-        "url": { "en-GB": "", "fr-FR": "" }
+        "label": { "en-GB": "" },
+        "url": { "en-GB": "" }
     },
     "label": { "en-GB": "Link" },
     "type": "compound",
