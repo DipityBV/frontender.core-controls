@@ -1,7 +1,7 @@
 {
     "value": 0,
     "label": { "en-GB": "Boolean" },
-    "type": "list",
+    "type": "boolean",
     "options": [
         { "value": 0, "label": { "en-GB": "No" } },
         { "value": 1, "label": { "en-GB": "Yes" } }
