@@ -1,0 +1,12 @@
+{
+        "label": {
+            "en-GB": "Model"
+        },
+        "adapters": [],
+        "control": "core/abstract",
+        "type": "adapter",
+        "value": {
+            "adapter": "",
+            "model": ""
+        }
+    }
