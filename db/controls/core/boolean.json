@@ -4,7 +4,8 @@
 		"en-GB": "Boolean"
 	},
 	"type": "boolean",
-	"options": [{
+	"options": [
+		{
 			"value": 0,
 			"label": {
 				"en-GB": "No"
