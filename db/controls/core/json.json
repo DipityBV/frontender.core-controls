@@ -1,7 +1,8 @@
 {
     "value": "",
-    "label": { "en-GB": "JSON" },
+    "label": {
+        "en-GB": "JSON" 
+    },
     "type": "json",
-    "control": "core/abstract",
-    "frontender": "353c36b475413d345c3b2265959b06f6"
+    "control": "core/abstract"
 }
