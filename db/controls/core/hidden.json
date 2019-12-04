@@ -1,7 +1,8 @@
 {
     "value": "",
-    "label": { "en-GB": "Hidden" },
+    "label": {
+        "en-GB": "Hidden" 
+    },
     "type": "hidden",
-    "control": "core/abstract",
-    "frontender": "d812d9e0e95cd059f950d9dfacf56e7f"
+    "control": "core/abstract"
 }
