@@ -3,8 +3,9 @@
       "protocol": "https",
       "domain": ""
     },
-    "label": { "en-GB": "Domain" },
+    "label": {
+        "en-GB": "Domain" 
+    },
     "type": "domain",
-    "control": "core/abstract",
-    "frontender": "08f30f163f7f31ecb460af95ad7a956f"
+    "control": "core/abstract"
 }
